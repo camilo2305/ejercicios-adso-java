@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio06MayorHastaElMomento {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("¿Cuántos números va a ingresar? ");
         int n = sc.nextInt();

@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio03ParImpar {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Ingrese un número entero: ");
         int numero = sc.nextInt();

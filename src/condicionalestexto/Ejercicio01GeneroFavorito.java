@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio01GeneroFavorito {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("¿Cuál es su género favorito de película? ");
         String genero = sc.nextLine();

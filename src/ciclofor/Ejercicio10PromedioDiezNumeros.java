@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio10PromedioDiezNumeros {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         double suma = 0;
         for (int i = 1; i <= 10; i++) {

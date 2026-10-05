@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio05NumeroPrimo {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Ingrese un número entre 1 y 15: ");
         int numero = sc.nextInt();

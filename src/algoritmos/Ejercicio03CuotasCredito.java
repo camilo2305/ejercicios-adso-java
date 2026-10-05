@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio03CuotasCredito {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         final double RECARGO_CREDITO = 0.25;
 

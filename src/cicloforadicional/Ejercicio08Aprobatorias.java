@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Ejercicio08Aprobatorias {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in).useLocale(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
         int aprobadas = 0;
         for (int i = 1; i <= 5; i++) {
