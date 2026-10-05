@@ -15,12 +15,5 @@ Colección de ejercicios de lógica de programación resueltos en Java, organiza
 | `cicloforadicional` | 11 ejercicios adicionales con ciclo `for` |
 | `docs` | Pseudocódigo y resultados de los operadores |
 
-## Cómo ejecutar
 
-1. Abrir el proyecto en Eclipse.
-2. Clic derecho sobre cualquier archivo `.java` y elegir **Run As > Java Application**.
-3. Los números decimales se escriben con punto (por ejemplo `2.5`).
 
-## Autor
-
-Camilo Daza
